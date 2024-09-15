@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "diary-bot"
+version = "0.1.0"
+description = ""
+authors = ["summerness <chengqihang@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+werobot = "^1.13.1"
+pydantic = "^2.9.0"
+pydantic-settings = "^2.4.0"
+python-decouple = "^3.8"
+cryptography = "^43.0.1"
+dashscope = "^1.20.9"
+markdown = "^3.7"
+pypinyin = "^0.52.0"
+openai = "^1.44.1"
+html2text = "^2024.2.26"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+
+[[tool.poetry.source]]
+name = "tsinghua-source"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple/"
+default = true  # 仅从定义仓库获取
