@@ -5,9 +5,10 @@
 
 
 ## 技术栈
-- **阿里云百炼**：用于图像分析和自然语言生成。
-- **Halo 建站平台(https://www.halo.run/)**：用于托管和展示生成的博客内容。
-- **Lsky 图床(https://github.com/lsky-org/lsky-pro)**：用于上传和存储图片。
+## 技术栈
+- **[阿里云百炼](https://bailian.aliyun.com/)**：用于图像分析和自然语言生成。
+- **[Halo 建站平台](https://www.halo.run/)**：用于托管和展示生成的博客内容。
+- **[Lsky 图床](https://github.com/lsky-org/lsky-pro)**：用于上传和存储图片。
 
 ## 安装与使用
 1. 克隆本项目代码：
