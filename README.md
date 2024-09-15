@@ -13,7 +13,7 @@
 ## 安装与使用
 1. 克隆本项目代码：
     ```bash
-    git clone https://github.com/your-repo/diary-bot.git
+    git clone https://github.com/summerness/diary-bot
     cd diary-bot
     ```
 
